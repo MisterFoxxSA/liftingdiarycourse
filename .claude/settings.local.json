@@ -13,7 +13,12 @@
       "Bash(git config:*)",
       "Bash(mkdir:*)",
       "Bash(npx shadcn@latest add:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(git fetch:*)",
+      "Bash(git pull:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd git command auto-approvals to Claude settings\n\nAdded auto-approvals for common git operations:\n- git fetch\n- git pull  \n- git checkout\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
