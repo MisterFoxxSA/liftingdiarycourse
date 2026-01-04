@@ -12,7 +12,9 @@ When implementing features, fixing bugs, or making any code changes:
 3. Ensure your generated code aligns with the patterns and recommendations in the documentation
 4. If no relevant docs exist, use standard best practices for the technology stack
 
-The `/docs` directory contains project-specific documentation and guidelines that should be your primary reference for code generation.
+The `/docs` directory contains project-specific documentation and guidelines that should be your primary reference for code generation:
+- /docs/ui.md
+- /docs/data-fetching.md
 
 ## Project Overview
 

@@ -12,7 +12,8 @@
       "mcp__neon__run_sql",
       "Bash(git config:*)",
       "Bash(mkdir:*)",
-      "Bash(npx shadcn@latest add:*)"
+      "Bash(npx shadcn@latest add:*)",
+      "Bash(mv:*)"
     ]
   }
 }
